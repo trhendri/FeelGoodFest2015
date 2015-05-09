@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'cooper_black';
+    src: url('../fonts/cooper_black-webfont.eot');
+    src: url('../fonts/cooper_black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/cooper_black-webfont.woff2') format('woff2'),
+         url('../fonts/cooper_black-webfont.woff') format('woff'),
+         url('../fonts/cooper_black-webfont.ttf') format('truetype'),
+         url('../fonts/cooper_black-webfont.svg#cooper_blackregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+#splashoi{
+background-color: deepskyblue;
+}
+
+.splash_body {
+    font-family: "cooper_black";
+   background-color: rgba(51,51,51, .8);
+    text-align: center;
+    height: 250px;
+    width: 500px;
+    margin: 10% auto;
+    color: white;
+    padding: 5px 0;
+     
+    
+}
+
+#march {
+    font-size: 20px;
+}
+
+#enterbut {
+    background: deepskyblue;
+    height: 55px;
+    width: 170px;
+    color: white;
+    line-height: 55px;
+    font-size: 24px;
+    font-weight: bold;
+    display: block;
+    border-radius: 2px;
+    text-align: center;
+    margin: 45px auto;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family: "Pantano Sans", Arial, sans-serif;
+    text-shadow: none;
+}
+a#enterbut {
+    text-decoration: none;
+}
+#enterbut:hover {
+    color: deepskyblue;
+    background-color: #fff;
+    -webkit-transition: background-color 0.3s ease-in,
+                color 0.7s ease-in;
+    -moz-transition: background-color 0.3s ease-in,
+                color 0.7s ease-in;
+    -o-transition: background-color 0.3s ease-in,
+                color 0.7s ease-in; 
+    -ms-transition: background-color 0.3s ease-in,
+                color 0.7s ease-in; 
+    transition: background-color 0.3s ease-in,
+                color 0.7s ease-in;
+}
+
+
+ 
+    
+    /*shorthand-- background: grey url('') no-repeat center / cover*/
+    
+
+
+

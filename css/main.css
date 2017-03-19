@@ -241,12 +241,11 @@ a#enterbut {
 	text-align: center;
 	max-width: 960px;
 	margin: 0 auto;
-	background-color: black;
 }
 
 .nav {
 	color: white;
-	background-color: deepskyblue;
+	background-color: green;
 	margin-top: -15px;   
 }
 
